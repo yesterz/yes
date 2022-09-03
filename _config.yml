@@ -1,3 +1,7 @@
+layout: page
+tile: "about"
+permalink: /about/contact/
+
 theme: jekyll-theme-cayman
 title: Yesterz's Blog
 description: my own persional resume
